@@ -1,6 +1,6 @@
 <?php
 // $fechaHora = date("Y") .  date("m") .  date("d") . (date("H")-5) . date("i") . date("s");
-$nombre = 'ventas-extralarge.csv';
+$nombre = 'ventas-extralarge.txt';
 
 header('Content-Type: text/csv; charset=utf-8');
 header('Content-Disposition: attachment; filename='.$nombre);
