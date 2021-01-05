@@ -45,7 +45,7 @@
                 <div class="row mt-5" >
                     <div class="col-2"></div>
                     <div class="col-8">
-                        <button class="btn btn-primary btn-block" id="boton" onClick="exportar()">Exportar csv</button>
+                        <button class="btn btn-primary btn-block" id="boton" onClick="exportar()">Exportar TXT</button>
                     </div>
                     <div class="col-2"></div>
                     
